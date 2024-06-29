@@ -55,3 +55,7 @@ for i,network in enumerate(reversed(wifi_list)):
 ---
 
 对于成功概率，你是否听说过一句话，给一个猴子无限长的寿命和一个键盘，它总有一天能敲出Windows操作系统
+
+如果你觉得有用，请点个 star 送我上去
+
+——我没找到这样直抒胸臆的开源代码，才写的
